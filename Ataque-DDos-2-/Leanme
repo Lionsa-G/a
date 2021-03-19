@@ -1,0 +1,6 @@
+# es lo mismo que el anterior repositorio solo le agg un par de palabras mas
+tienen que tener instalado tor
+sudo apt-get install tor
+sudo service tor start
+y ya podran correr el programa, cualquier duda o consulta hablarme al privado
+tienen que darle enter para que la palabra venganza aparezca xd
